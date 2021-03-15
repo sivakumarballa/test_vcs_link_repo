@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_x_app2_integrations" name="sn_dd_x_app2_integrations">827d0674531220106c4bddeeff7b125e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>tb.demouser</sys_created_by>
+        <sys_created_on>2021-02-10 17:55:34</sys_created_on>
+        <sys_id>067d0674531220106c4bddeeff7b1260</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>827d0674531220106c4bddeeff7b125e</sys_name>
+        <sys_package display_value="App1" source="x_app1_0">520b46f0531220106c4bddeeff7b12a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">520b46f0531220106c4bddeeff7b12a0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_067d0674531220106c4bddeeff7b1260</sys_update_name>
+        <sys_updated_by>tb.demouser</sys_updated_by>
+        <sys_updated_on>2021-02-10 17:55:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

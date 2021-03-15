@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table1" max_length="40" name="x_app1_0_table1" sizeclass="0" type="collection">
+        <element label="A1" max_length="32" name="a1" reference="sc_ic_task_defn_staging" type="reference"/>
+        <element label="A10" max_length="32" name="a10" reference="task" type="reference"/>
+        <element label="A11" max_length="32" name="a11" reference="question" type="reference"/>
+        <element label="A2" max_length="32" name="a2" reference="question" type="reference"/>
+        <element label="A3" max_length="32" name="a3" reference="sc_ic_task_defn_staging" type="reference"/>
+        <element label="A4" max_length="32" name="a4" reference="incident" type="reference"/>
+        <element label="A5" max_length="32" name="a5" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="a1"/>
+        </index>
+        <index name="index2">
+            <element name="a11"/>
+        </index>
+        <index name="index3">
+            <element name="a10"/>
+        </index>
+        <index name="index4">
+            <element name="a2"/>
+        </index>
+        <index name="index5">
+            <element name="a3"/>
+        </index>
+        <index name="index6">
+            <element name="a4"/>
+        </index>
+        <index name="index7">
+            <element name="a5"/>
+        </index>
+    </element>
+</database>
